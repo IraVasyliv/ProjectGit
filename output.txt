@@ -1,0 +1,4 @@
+Bin1/
+Lib/
+Pics/
+output.txt
